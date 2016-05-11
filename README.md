@@ -2,7 +2,7 @@
 
 ## *I hope you enjoy your stay*
 
-__Testing the *markdown* styles_
+__Testing the *markdown* styles__
 
 ###### This line should be a h6
 
