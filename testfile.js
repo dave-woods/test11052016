@@ -7,5 +7,5 @@ var fs = require("fs");
 
 fs.readFile("README.md", function(err, data){
     if (err) throw err;
-    console.log(data.toString().split("").reverse().join("");
+    console.log(data.toString().split("").reverse().join(""));
 });
